@@ -20,7 +20,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `@wardpeet/gatsby-plugin-static-site`,
+      resolve: `@israelcrux/gatsby-plugin-static-site`,
     },
     // {
     //   resolve: `gatsby-plugin-manifest`,
